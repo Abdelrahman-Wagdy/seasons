@@ -1,6 +1,7 @@
+
 const HSlider = () => {
     return (  
-        <div className="slider">
+        <div className="slider section">
             
         </div>
     );
